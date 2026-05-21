@@ -47,12 +47,13 @@ If you find our work useful, please cite both the conference paper (for the dens
 For research specifically focusing on dense prediction, vision token supervision, and the standard architecture paradigm.
 
 ```bibtex
-@inproceedings{anonymous2026densemllm,
-  title={Dense{MLLM}: Standard Multimodal {LLM}s are Intrinsic Dense Predictors},
-  author={Anonymous},
-  booktitle={Forty-third International Conference on Machine Learning},
-  year={2026},
-  url={https://openreview.net/forum?id=F99QbhItQE}
+@inproceedings{
+anonymous2026densemllm,
+title={Dense{MLLM}: Standard Multimodal {LLM}s are Intrinsic Dense Predictors},
+author={Anonymous},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=F99QbhItQE}
 }
 ```
 
