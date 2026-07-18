@@ -47,14 +47,13 @@ If you find our work useful, please cite both the conference paper (for the dens
 For research specifically focusing on dense prediction, vision token supervision, and the standard architecture paradigm.
 
 ```bibtex
-@misc{li2026densemllmstandardmultimodalllms,
-      title={DenseMLLM: Standard Multimodal LLMs for Dense Prediction}, 
-      author={Yi Li and Hongze Shen and Lexiang Tang and Xin Li and Xinpeng Ding and Yinsong Liu and Deqiang Jiang and Xing Sun and Xiaomeng Li},
-      year={2026},
-      eprint={2602.14134},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2602.14134}, 
+@inproceedings{
+li2026densemllm,
+title={Dense{MLLM}: Standard Multimodal {LLM}s for Dense Prediction},
+author={Yi Li and Hongze Shen and Lexiang Tang and Xin Li and Xinpeng Ding and Yinsong Liu and Deqiang Jiang and Xing Sun and Xiaomeng Li},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=F99QbhItQE}
 }
 ```
 
